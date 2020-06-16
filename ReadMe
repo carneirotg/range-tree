@@ -1,0 +1,20 @@
+*Feito
+- Lista encadeada sendo criada de forma ordenada através dos Objetos da aba inserir.
+- Elemento da lista sendo deletado através dos objetos da aba Excluir.
+- Imprimindo os pontos no Particionamento, quando insere novo no e apagando o ponto quando excluido.
+- Todos os ítens do menu Árvore, com exceção do Abrir->Coordenadas UTM, estão funcionando. 
+- Todos os ítens do menu Nó estão funcionando.
+- Range Tree 1D e Range Tree 2D sendo criadas.
+
+*Falta fazer
+- Busca por nó
+- Busca por Região
+- Busca por Vizinhança
+- Impressão do grafo na Hierarquia de Nós
+- Impressão de Status na aba EXCLUIR
+- Impressão de Resultado nas abas BUSCA POR NÓ, BUSCA POR REGIÃO e BUSCA POR VIZINHANÇA
+- Menu Sobre
+- Menu Abrir -> Coordenadas UTM (descobrir o que é!)
+
+Proximo Passo
+- Vou fazer as buscas, por nó, por região e por vizinhança (nessa ordem)
